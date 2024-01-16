@@ -8,8 +8,6 @@ This password manager is a secure and easy-to-use tool to store and manage your 
 
 ## Features
 
-❌✅
-
 - Secure storage: Your passwords are encrypted using a strong encryption algorithm.
   _✅ done_
 - Master password: You only need to remember one password to access all your other passwords.
