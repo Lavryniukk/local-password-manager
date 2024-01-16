@@ -10,7 +10,7 @@
 
 # Ignore build artifacts
 Cargo.lock
-/src/db/
+/src/db/password_manager_db
 
 # Ignore the db files
 db.sqlite3
