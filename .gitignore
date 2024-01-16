@@ -1,0 +1,20 @@
+# Ignore compiled binaries
+/target/
+
+# Ignore project-specific IDE files
+/.idea/
+/.vscode/
+
+# Ignore generated documentation
+/doc/
+
+# Ignore build artifacts
+Cargo.lock
+/src/db/
+
+# Ignore the db files
+db.sqlite3
+.db
+**/target/
+**/*.exe
+**/*.pdb
